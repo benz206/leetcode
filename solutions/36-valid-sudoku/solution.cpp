@@ -1,5 +1,5 @@
 /**
-key point is collisions are equal, car moving right contribs 1, car moving left contribs 1, once trimmed u just get the answer
+just standard q
  */
 
 #include <bits/stdc++.h>
